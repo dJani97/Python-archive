@@ -1,0 +1,3 @@
+keszpenz 44500
+telefon 0
+netbank 5000

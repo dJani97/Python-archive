@@ -1,0 +1,30 @@
+
+Pong final: http://www.codeskulptor.org/#user40_eU7QI7uSbB_22.py
+memory: http://www.codeskulptor.org/#user40_JCfMsslvyR_7.py
+Black jack:  http://www.codeskulptor.org/#user40_50NRkw034Z_9.py
+
+-- Spaceship/RiceRocks --
+asteroids: http://www.codeskulptor.org/#user40_9mqJc3nEuP_0.py
+# one way-reflection, one way normal_vector calculation
+SPACESHIP: http://www.codeskulptor.org/#user40_9PUEHesWBw_48.py
+
+
+
+EXAMPLES:
+Physics:  http://www.codeskulptor.org/#poc_physics_linear.py
+Anumation: http://www.codeskulptor.org/#examples-explosion_animation.py
+awesome solution: http://www.codeskulptor.org/#user40_27Je28OAyyp7hO3.py
+Collosion algorythms: http://www.codeskulptor.org/#user40_d7T6JWi5cWW0GXX.py
+about grid: http://buildnewgames.com/broad-phase-collision-detection/
+
+
+NOT Coursera:
+Strategy game:  http://www.codeskulptor.org/#user40_SMwBzKNVi4_11.py
+flappy_cube: http://www.codeskulptor.org/#user40_KxwnnwYGoM_0.py
+rand_rect:  http://www.codeskulptor.org/#user40_Y3hBUOj7kM_9.py
+lines:  http://www.codeskulptor.org/#user40_53HANTATOd7Ppy7_3.py
+
+maris http://www.codeskulptor.org/#user40_hdbIOf630TXxZFc_0.py
+
+______________________ PRINCIPLES OF COMPUTING __________________________
+2048 Merge: http://www.codeskulptor.org/#user41_EVjE6IihEs_8.py

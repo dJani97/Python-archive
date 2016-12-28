@@ -1,0 +1,3 @@
+keszpenz 43000
+telefon 1500
+netbank 5000

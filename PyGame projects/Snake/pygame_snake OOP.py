@@ -305,7 +305,7 @@ def gameLoop():
                 if event.key == pygame.K_e:
                     apple_count += 1
                 if event.key == pygame.K_q:
-                    apple_count = 1
+                    apple_count = 100
 
         
 
